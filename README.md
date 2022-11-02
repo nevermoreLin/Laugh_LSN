@@ -12,3 +12,9 @@ In this paper, we introduce our research on learning speaker embedding from spee
 Thus this repository contains two kinds of data: laughter clips and evaluation trials.
 
 # 1.Laughter clips 
+All of our clips could be downloaded on :
+<a href="https://drive.google.com/drive/folders/1kh72qXWssDhkmlAhrboms-teR2RJHOoo?usp=sharing">Google Drive </a>
+
+ The general overview is shown below: ![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/clips_info.jpg?raw=true)
+
+For convenience, we provide some sample clips in clips
