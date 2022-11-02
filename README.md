@@ -17,4 +17,10 @@ All of our clips could be downloaded on :
 
  The general overview is shown below: ![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/clips_info.jpg?raw=true)
 
-For convenience, we provide some sample clips in clips
+For convenience, we provide some sample clips for you to have an intuitive appreciation on these clips.
+
+#### • vox-id00358-laugh_2.wav
+
+<audio id="wav" src="https://github.com/nevermoreLin/Laugh_LSN/blob/main/clips/vox-id00358-laugh_2.wav" preload="none" controls>
+  vox-id00358-laugh_2.wav
+</audio>
