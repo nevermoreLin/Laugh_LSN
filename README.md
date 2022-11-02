@@ -21,6 +21,5 @@ For convenience, we provide some sample clips for you to have an intuitive appre
 
 #### • vox-id00358-laugh_2.wav
 
-<audio id="wav" src="https://github.com/nevermoreLin/Laugh_LSN/blob/main/clips/vox-id00358-laugh_2.wav" preload="auto" controls>
-  vox-id00358-laugh_2.wav
+<audio id="mp3" src="https://github.com/nevermoreLin/Laugh_LSN/blob/main/clips/vox-id00358-laugh_2.mp3" preload="auto" controls>
 </audio>
