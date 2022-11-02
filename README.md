@@ -7,5 +7,8 @@ This repository contains corresponding data of our paper "Laugh Betrays You? Lea
 In this paper, we introduce our research on learning speaker embedding from speech containing laughter components. Laughter clips are extracted from Voxceleb and CnCeleb and then feed into laughter detection binary classifier. Finally, we leverage these clips to construct evaluation trials under two scenerios: Speech-Laughter(SL) and Laughter-Laughter. The figure is shown below.
 
 
-![image]()
+![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/pipeline.jpg?raw=true)
  
+Thus this repository contains two kinds of data: laughter clips and evaluation trials.
+
+# 1.Laughter clips 
