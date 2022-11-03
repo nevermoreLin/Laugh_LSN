@@ -61,4 +61,6 @@ We utilize a novel method called **Laughter-Splicing Network (LSN)**, which can 
 
 The following figure is our LSN model backbone.
 
-![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/LSN.jpeg?raw=true)
+<div align="center">
+  <img src="https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/LSN.jpeg?raw=true" width=60%  />
+</div>
