@@ -9,7 +9,7 @@ In this paper, we introduce our research on learning speaker embedding from spee
 
 ![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/pipeline.jpg?raw=true)
  
-Thus this repository contains two kinds of data: laughter clips and evaluation trials.
+Therefore, this repository contains two kinds of data: laughter clips and evaluation trials.
 
 # 1. Laughter clips 
 All of our clips could be downloaded on :
@@ -54,3 +54,11 @@ The following table shows the brief information of our evaluation set on two sce
 ![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/trials.jpg?raw=true)
  
 # 3. Experimental Result 
+
+We utilize a novel method called **Laughter-Splicing Network (LSN)**, which can significantly boost performance on our proposed evaluation set. Experimental result are presented below: 
+
+![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/result.jpg?raw=true)
+
+The following figure is our LSN model backbone.
+
+![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/LSN.jpeg?raw=true)
