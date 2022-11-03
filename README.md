@@ -4,7 +4,7 @@ This repository contains corresponding data of our paper "Laugh Betrays You? Lea
 <a href="https://arxiv.org/abs/2210.16028">Paper arxiv </a>  |
 
 # 0. Introduction
-In this paper, we introduce our research on learning speaker embedding from speech containing laughter components. Laughter clips are extracted from Voxceleb and CnCeleb and then feed into laughter detection binary classifier. Finally, we leverage these clips to construct evaluation trials under two scenerios: Speech-Laughter(SL) and Laughter-Laughter. The figure is shown below.
+In this paper, we introduce our research on learning speaker embedding from speech containing laughter components. Laughter candidates are extracted from Voxceleb and CnCeleb and then feed into laughter detection binary classifier to obtain laughter clips. Finally, we leverage these clips to construct evaluation trials under two scenerios: Speech-Laughter(SL) and Laughter-Laughter. The figure is shown below.
 
 
 ![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/pipeline.jpg?raw=true)
@@ -15,7 +15,9 @@ Thus this repository contains two kinds of data: laughter clips and evaluation t
 All of our clips could be downloaded on :
 <a href="https://drive.google.com/drive/folders/1kh72qXWssDhkmlAhrboms-teR2RJHOoo?usp=sharing">Google Drive </a>
 
- The general overview is shown below: ![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/clips.jpg?raw=true)
+ The general overview is shown below:
+ 
+  ![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/clips.jpg?raw=true)
 
 For convenience, we provide some sample clips for you to have an intuitive appreciation on these clips.
 
@@ -47,3 +49,8 @@ vox-id00035-laugh_4 id00035-TaejKlg4LoA-00106 4.8268708881470275 6.4779358992967
 
 # 2. Evaluation Set 
 
+The following table shows the brief information of our evaluation set on two scenerios: **Speech-Laughter(SL)** and **Laughter-Laughter(LL)**. The trials can be found in <a href="https://github.com/nevermoreLin/Laugh_LSN/tree/main/trails">trials</a>.
+
+![image](https://github.com/nevermoreLin/Laugh_LSN/blob/main/fig/trials.jpg?raw=true)
+ 
+# 3. Experimental Result 
