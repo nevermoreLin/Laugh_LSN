@@ -19,7 +19,20 @@ All of our clips could be downloaded on :
 
 For convenience, we provide some sample clips for you to have an intuitive appreciation on these clips.
 
-#### • vox-id00358-laugh_2.wav
-
-<audio id="mp3" src="https://github.com/nevermoreLin/Laugh_LSN/blob/main/clips/vox-id00358-laugh_2.mp3" preload="auto" controls>
-</audio>
+<ul>
+  <li>
+    <a href="https://laughter-1304631821.cos.ap-shanghai.myqcloud.com/vox-id00358-laugh_2.mp3">vox-id00358-laugh_2</a>&nbsp&nbsp
+    <a href="https://laughter-1304631821.cos.ap-shanghai.myqcloud.com/vox-id00398-laugh_1.mp3">vox-id00398-laugh_1</a>&nbsp&nbsp
+    <a href="https://laughter-1304631821.cos.ap-shanghai.myqcloud.com/vox-id00633-laugh_5.mp3">vox-id00633-laugh_5</a>
+  </li>
+  <li>
+    <a href="https://laughter-1304631821.cos.ap-shanghai.myqcloud.com/ent-id10293-laugh_1.mp3">ent-id10293-laugh_1</a>&nbsp&nbsp
+    <a href="https://laughter-1304631821.cos.ap-shanghai.myqcloud.com/ent-id10534-laugh_0.mp3">ent-id10534-laugh_0</a>&nbsp&nbsp
+    <a href="https://laughter-1304631821.cos.ap-shanghai.myqcloud.com/ent-id10683-laugh_3.mp3">ent-id10683-laugh_3</a>
+  </li>
+  <li>
+    <a href="https://laughter-1304631821.cos.ap-shanghai.myqcloud.com/int-id10249-laugh_3.mp3">int-id10249-laugh_3</a>&nbsp&nbsp
+    <a href="https://laughter-1304631821.cos.ap-shanghai.myqcloud.com/int-id10696-laugh_1.mp3">int-id10696-laugh_1</a>&nbsp&nbsp
+    <a href="https://laughter-1304631821.cos.ap-shanghai.myqcloud.com/int-id10915-laugh_0.mp3">int-id10915-laugh_0</a>
+  </li>
+</ul>
